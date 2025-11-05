@@ -1,4 +1,6 @@
 a =5
 b =5
 
-print("Hello raj" + (a+b))
+c = a+b
+
+print("Hello raj" +c)
