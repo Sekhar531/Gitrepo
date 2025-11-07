@@ -6,3 +6,7 @@ def add():
     print("Hello raj" +c)
 
 add()
+
+def gitfun():
+    print("Merge conflict checking")
+
