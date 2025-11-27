@@ -17,7 +17,7 @@ class course:
             return True
         return False
     def get_average_grade(self):
-        pass
+            pass
 
 s1 = student("subbu",17,90)
 s2 = student("Ram",17,76)
