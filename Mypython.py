@@ -3,8 +3,8 @@ def add():
     b =5 
     # add c for sum
     c = a+b
-    print("Hello raj" +c)
-    
+    print("Hello raj c vlue is" +c)
+
 add()
 
 def gitfun():
